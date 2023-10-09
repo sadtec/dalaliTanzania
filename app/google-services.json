@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720693219559",
+    "project_id": "dalalitanzania-430d7",
+    "storage_bucket": "dalalitanzania-430d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720693219559:android:f425a9a2afc74aec571242",
+        "android_client_info": {
+          "package_name": "com.sadtec.dalalitanzania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKajuPR4ui-wt_pm9U1MJHd6LWBWPqLFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
